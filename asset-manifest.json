@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.9aa252ce.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.9aa252ce.js.map": "/static/js/main.9aa252ce.js.map"
+    "main.css": "/highhimanshu/demo-crud1/static/css/main.073c9b0a.css",
+    "main.js": "/highhimanshu/demo-crud1/static/js/main.d046a84f.js",
+    "index.html": "/highhimanshu/demo-crud1/index.html",
+    "main.073c9b0a.css.map": "/highhimanshu/demo-crud1/static/css/main.073c9b0a.css.map",
+    "main.d046a84f.js.map": "/highhimanshu/demo-crud1/static/js/main.d046a84f.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9aa252ce.js"
+    "static/js/main.d046a84f.js"
   ]
 }
